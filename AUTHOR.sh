@@ -1,0 +1,11 @@
+# This script is about me and my works!
+echo -e "My name: Abdallah Hussein Mahmoud (Abdallah X1L)"
+echo -e "My old: 14 years old"
+echo -e "My brith date: 9/3/2004"
+echo -e "My Country: Egypt"
+echo -e "My favourtie hobby: hacking and programming"
+echo -e "My operating systems that I can use it: Kali Linux, Arch Linux, Black Arch Linux, Parrot security, Ubuntu, Debian"
+echo -e "My porgrammer language that I learned it: python, and started to learn bash"
+echo -e "My goals in life: being a social engineer"
+echo -e "My facebook account: https://www.facebook.com/100016180543506"
+echo -e "My github account: https://github.com/Abdoelnerm"
